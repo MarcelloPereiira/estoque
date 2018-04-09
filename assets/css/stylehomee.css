@@ -1,0 +1,145 @@
+*{
+	font-family: Arial;
+	margin: 0;
+}
+.topo{
+height: 50px;
+background-color: #000;
+}
+.topointerno{
+width: 1000px;
+margin: auto;
+}
+.menu{
+float: left;
+line-height: 50px;
+}
+.menu ul,
+.menu li,
+.menu a{
+list-style: none;
+color: #FFF;
+margin: 0;
+padding: 0;
+font-weight: bold; 
+}
+
+.menu li{
+float: right;
+padding-left: 20px;
+padding-right: 20px;
+font-size: 18px;
+height: 50px;
+transition: all 0.4s linear;
+}
+
+.menu li:hover{
+color: #000;
+background-color: #fafafa;
+cursor: pointer;
+font-size: 20px;
+}
+.buscar{
+width: 1000px;
+
+}
+.buscar input{
+float: right;
+margin: auto;
+color: #FFF;
+width:390px;
+height:30px;
+font-size:18px;
+background-color: #4b4b4b;
+border-radius: 5px;
+margin-top: 7px;
+}
+.buscarimg img{
+width: 30px;
+float: right;
+margin-top: 10px;
+margin-right: 10px;
+}
+
+::-webkit-input-placeholder {
+   color: #333;
+   font: 18px verdana, arial, sans-serif;
+}
+
+:-moz-placeholder {
+   color: #333;
+   font: 18px verdana, arial, sans-serif;
+}
+
+::-moz-placeholder {
+   color: #333;
+   font: 18px verdana, arial, sans-serif;
+}
+
+:-ms-input-placeholder {  
+   color: #333;
+   font: 18px verdana, arial, sans-serif;
+}
+.tabela{
+margin-top: 80px;
+}
+.tabelainterior{
+	margin: auto;
+	width: 1000px;
+}
+.tabelainterior table{
+	width: 100%;
+	text-align: center;
+	margin-bottom: 60px;
+}
+.tabelainterior table,
+.tabelainterior td{
+	border: 1px #BBB solid;
+}
+.tabelainterior a{
+text-decoration: none;
+color: #729fcf;
+}
+.tabelainterior a:hover{
+	color:	red;
+	font-size: 14px;
+	font-weight: bold;
+}
+.tabelainterior th{
+	background-color: #000; 
+	color: #FFF;
+}
+.rodape{
+background-color: #000;
+height: 25px;
+color: #FFF;
+text-align: center;
+line-height: 25px;
+position: fixed;
+width: 100%;
+bottom: 0;
+}
+#btneditar{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

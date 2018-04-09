@@ -1,0 +1,41 @@
+*{
+margin: 0;
+font-family: Arial;
+}
+body{
+background-color: #000;	
+color: #FFF;
+}
+.interiorlogin1{
+}
+.interiorlogin2{
+width: 250px;
+margin: auto;
+margin-top: 170px;
+font-size: 20px;
+}
+.interiorlogin2 input{
+width: 250px;
+height: 30px;
+font-size: 18px;
+}
+.button{
+font-size: 15px;
+background-color: #729fcf;
+color: #FFF;
+font-weight: bold;
+border: 0;
+border-radius: 4px;
+}
+.button:hover{
+	box-shadow: 0px 0px 5px #FFF;
+}
+.interiorlogin2 input:hover{
+cursor: pointer;
+}
+h2{
+color: red;
+font-size: 18px;
+margin-top: 30px;
+text-align: center;
+}

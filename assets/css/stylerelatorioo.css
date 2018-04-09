@@ -1,0 +1,61 @@
+*{
+	font-family: Arial;
+}
+.h1{
+	text-align: center;
+	margin-top: 50px;
+}
+.interior{
+	width: 600px;
+	margin: auto;
+}
+.interior table,
+.interior td{
+border : 1px #BBB solid;
+width: 600px;
+text-align: center;
+}
+.interior th{
+	color: #FFF;
+	background-color: #000;
+}
+
+.botao{
+font-size: 20px;
+background-color: #009999;
+color: #FFF;
+border: 0;
+border-radius: 4px;
+cursor: pointer;	
+width: 80px;
+height: 30px;
+float: right;
+line-height:30px;
+text-align: center;
+margin-top: 20px;
+}
+.botao:hover{
+	box-shadow: 0px 0px 5px #000;
+}
+.botao a{
+text-decoration-line: none;
+color: #FFF;
+}
+.btn{
+font-size: 20px;
+background-color: #729fcf;
+color: #FFF;
+border: 0;
+border-radius: 4px;
+cursor: pointer;	
+width: 80px;
+height: 30px;
+float: right;
+line-height:30px;
+text-align: center;
+margin-top: 20px;
+margin-right: 30px;
+}
+.btn:hover{
+	box-shadow: 0px 0px 5px #000;
+}

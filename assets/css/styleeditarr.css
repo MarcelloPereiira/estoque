@@ -1,0 +1,54 @@
+*{
+	font-family: Arial;
+	margin: 0;
+}
+.h1{
+	margin-top: 50px;
+	text-align: center;
+}
+.interior{
+width: 250px;
+margin: auto;
+margin-top: 30px;
+font-size: 20px;
+}
+.interior input{
+font-size: 18px;
+}
+.itens input{
+width: 250px;
+height: 30px;	
+}
+.botao1 input{
+background-color: #729fcf;
+border: 0;
+border-radius: 4px;
+cursor: pointer;
+color: #FFF;
+float: left;
+width: 80px;
+height: 30px;
+}
+.botao1 input:hover{
+	box-shadow: 0px 0px 5px #000;
+}
+.botao2{
+font-size: 20px;
+background-color: #009999;
+color: #FFF;
+border: 0;
+border-radius: 4px;
+cursor: pointer;	
+width: 80px;
+height: 30px;
+float: right;
+line-height:30px;
+text-align: center;
+}
+.botao2 a{
+	text-decoration-line: none;
+	color: #FFF;
+}
+.botao2:hover{
+	box-shadow: 0px 0px 5px #000;
+}
